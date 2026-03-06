@@ -1,0 +1,1 @@
+Simple CLI program for managing todos in Lua with file persistence
