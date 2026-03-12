@@ -9,6 +9,6 @@ A repository with all kinds of Lua projects I develop. Including a dev environme
 - [hello_world/](https://github.com/stfab/my-lua-projects/tree/main/projects/hello_world/) Simple hello world example
 - [readme/](https://github.com/stfab/my-lua-projects/tree/main/projects/readme/) Generator for this repositories README.md
 - [season_calendar/](https://github.com/stfab/my-lua-projects/tree/main/projects/season_calendar/) Lua script to create a team-specific calendar from a league schedule of the Sportwinner website.
-- [todos/](https://github.com/stfab/my-lua-projects/tree/main/projects/todos/) Simple CLI program for managing todos in Lua with file persistence
+-  [sudoku/](https://github.com/stfab/my-lua-projects/tree/main/projects/sudoku/) A simple sudoku solver program. [todos/](https://github.com/stfab/my-lua-projects/tree/main/projects/todos/) Simple CLI program for managing todos in Lua with file persistence
 
 
